@@ -1,0 +1,11 @@
+.opacityText {
+  opacity: 0.5;
+}
+
+.faded {
+  opacity: 0.5;
+}
+
+.highlight {
+  display: inline-block;
+}

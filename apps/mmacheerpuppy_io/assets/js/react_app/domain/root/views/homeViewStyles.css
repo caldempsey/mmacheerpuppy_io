@@ -1,0 +1,13 @@
+.title {
+  font-weight: 300;
+  font-size: 2rem;
+  margin-bottom: 24px;
+  word-wrap: break-word;
+}
+
+.subtitle {
+  font-weight: 300;
+  font-size: 1.3rem;
+  margin-bottom: 24px;
+  color: #aaa;
+}
