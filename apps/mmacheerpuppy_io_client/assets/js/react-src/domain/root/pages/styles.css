@@ -1,0 +1,41 @@
+.pageContent {
+  box-sizing: border-box;
+  word-wrap: break-word;
+  padding: 4rem;
+  background-color: rgb(13, 20, 33);
+  height: 100%;
+  width: 100%;
+}
+
+section {
+  font-size: 1rem;
+  padding-bottom: 1.2rem;
+}
+
+.view {
+  min-height: 100%;
+  min-width: 100%;
+}
+
+.tabs {
+  font-size: 1.5rem;
+}
+
+.tabs > * + * {
+  margin-left: 30px;
+}
+
+.tab-link {
+  color: #f2f5fd;
+  opacity: 0.6;
+  transition: 0.3s opacity;
+}
+
+.tab-link:hover {
+  opacity: 1;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}

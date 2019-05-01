@@ -1,4 +1,4 @@
-defmodule Mmacheerpuppy.MixProject do
+defmodule MmacheerpuppyIo.MixProject do
   use Mix.Project
 
   def project do
